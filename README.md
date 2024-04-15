@@ -9,6 +9,17 @@ Repo for project team 58. CS 598 - Deep Learning for Healthcare, Spring 2024.
 ## Proposal (requires invite)
 https://docs.google.com/document/d/1sGE6xXncTIIqT5_l86JG-nd6DTWGr3Xtw51ogAczY_s/edit?usp=sharing
 
+## Setup
+
+### Environment
+
+This requires Python 3.8.10. To create the environment, run the following command:
+
+```bash
+python3 -m venv cass && source cass/bin/activate && pip install -r requirements.txt
+```
+
+
 
 ## References
 - https://github.com/yinchangchang/DG-RNN
