@@ -31,3 +31,6 @@ python3 -m venv cass && source cass/bin/activate && pip install -r requirements.
 - https://ieeexplore.ieee.org/document/8970777
 
 ---
+
+## Presentation Video Link
+https://www.youtube.com/watch?v=3Zs1un03coo
